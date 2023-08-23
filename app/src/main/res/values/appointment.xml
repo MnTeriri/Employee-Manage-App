@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="appointment">
+        <item>组员</item>
+        <item>组长</item>
+        <item>部长</item>
+        <item>经理</item>
+        <item>总监</item>
+    </string-array>
+</resources>

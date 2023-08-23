@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Class Design</string>
+    <string name="title_employee">员工</string>
+    <string name="title_salary">工资</string>
+    <string name="title_myself">我的</string>
+</resources>
