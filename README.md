@@ -22,24 +22,24 @@
 ## 界面展示
 * 登录界面
 <div align="center">
-<img  src="image/7.jpg" width="300" />
-<img  src="image/8.jpg" width="300" />
+<img  src="image/7.jpg" width="200" />
+<img  src="image/8.jpg" width="200" />
 <div align="center">登录界面（未输入信息、账号存在）</div>
 </div>
 
 * 管理员界面
 <div align="center">
-<img  src="image/1.jpg" width="300" />
-<img  src="image/2.jpg" width="300" />
-<img  src="image/3.jpg" width="300" />
+<img  src="image/1.jpg" width="200" />
+<img  src="image/2.jpg" width="200" />
+<img  src="image/3.jpg" width="200" />
 <div align="center">管理员管理界面（员工信息、工资信息显示）</div>
 </div>
 
 * 管理员管理界面
 <div align="center">
-<img  src="image/4.jpg" width="300" />
-<img  src="image/5.jpg" width="300" />
-<img  src="image/6.jpg" width="300" />
+<img  src="image/4.jpg" width="200" />
+<img  src="image/5.jpg" width="200" />
+<img  src="image/6.jpg" width="200" />
 <div align="center">管理员管理界面（添加员工信息、工资信息、删除员工信息）</div>
 </div>
 
